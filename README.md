@@ -3,6 +3,7 @@
 * **Názov kurzu:** C++ pre začiatočníkov
 * **Predmet:** Programovanie
 * **Trieda:** II.ročník
+* **Discord Link:** https://discord.gg/d9QFsdy7
 
 **Popis:**
 > Tento kurz je zameraný pre začiatočníkov v programovacom jazyku C/C++.
