@@ -47,5 +47,9 @@ Switch | 4b | |
 Glob. a lokálne menné priestory | 10b |  | 
 Cykly: while, do while | 5b |  | 
 Cykly: for  | 12b |  | 
- |  |  | 
+Polia | 7b |  | 
+Viacrozmerné polia | 8b |  |
+String | 3b |  |
+Sada otázok | 15b |  | 
+Sada otázok | 15b |  | 
 **MAX. bodov** | **100b** | **MAX. bodov** | 
