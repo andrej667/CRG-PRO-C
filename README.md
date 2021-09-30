@@ -35,7 +35,7 @@
 
 <br/>
 
-## **Prehľad učiva**
+## 📆 **Prehľad učiva**
 
 | **1. polrok** | **Téma** | **2.Polrok** | **Téma** |
 |---------------|----------|--------------|----------|
@@ -65,7 +65,7 @@
 
 <br>
 
-**Výsledná stupnica pre uzatvorenie známky je následovná:**
+📈 **Výsledná stupnica pre uzatvorenie známky je následovná:**
 Získané body v percentách | Známka
 ------------ | -------------
 100% - 90% | 1
@@ -76,7 +76,7 @@ Získané body v percentách | Známka
 
 <br>
 
-**Rozdelenie úloh a bodov**
+✔️ **Rozdelenie úloh a bodov**
 
  Úlohy 1.Polrok | Max. bodov |  Úlohy 2.Polrok | Max. bodov
 ------------ | ------------- | ------------- | -------------
@@ -94,7 +94,7 @@ Sada otázok | 15b |  |
 Sada otázok | 15b |  | 
 **MAX. bodov** | **100b** | **MAX. bodov** | 
 
-**Rozpis pre sady otázok**
+📅 **Rozpis pre sady otázok**
  Sada | Téma | 
 ------| -----| 
 1| Algoritmus, úvod do programovania, vývojové prostredie, typový sytém
