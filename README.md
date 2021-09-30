@@ -1,25 +1,34 @@
-# M - C++ začiatočníci
+# Materiály - C/C++ (začiatočníci) ©️
 
-* **Názov kurzu:** C++ pre začiatočníkov
-* **Predmet:** Programovanie
-* **Trieda:** II.ročník
-* **Discord Link:** https://discord.gg/d9QFsdy7
+* ©️ **Názov kurzu:** C/C++ pre začiatočníkov
+* 📙 **Predmet:** Programovanie
+* 🎓 **Trieda:** II.ročník
+* 💬 **Discord Link:** https://discord.gg/d9QFsdy7
 
-**Popis:**
-> Tento kurz je zameraný pre začiatočníkov v programovacom jazyku C/C++.
-> Prejdeme si základy ako napríklad: premenné, podmienky, cykly, polia ....
-> V druhej časti taktiež zavítame do OOP (Objected oriented programming) problematiky.
-> Skvelý zdroj materiálov pre naučenie sa nájdete [TU](https://www.w3schools.com/cpp/default.asp)
+</br>  
 
-#
+## **Popis:**  
+> <br/> 
+> Cieľom kurzu je zoznámiť študentov s programovacímy jazykmi. Konkrétne jazykom C/C++. Prejdeme si základy programovania, ukážeme a naučíme sa základné jazykové konštrukcie. Na konci kurzu, žiak bude vedieť používať premenné, podmienky, cykly, polia, pointre, pracovať so súbormi, OOP a mnoho ďalšieho v programovacom jazyku C/C++.
+> <br/> <br>
+<br/>
 
-**Prerequisites**
-* Základy angličtiny
-* Matematické myslenie
-* **Vedieť používať Google**    
+📚 **Učebné materiály nájdete [TU](https://www.w3schools.com/cpp/default.asp).**
 
-**Nástroje ktoré potrebujeme**
-* [Microsoft Visual Studio](https://visualstudio.microsoft.com/cs/) 
+<br/>
+
+## **Prerequisites**
+* 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Základy angličtiny
+* 🧮 Matematické myslenie
+* 🔍 **Vedieť používať Google**    
+
+<br/>
+
+## **Nástroje ktoré budeme využívať**
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/cs/) ⭐⭐⭐⭐⭐ 
+* [XCode]() - Pre Mac zariadenia ⭐⭐⭐⭐⭐
+
+<br/>
 
 ## **Systém Hodnotenia**
 > Počas kurzu budete spracovávať zadania, za ktoré budete hodnotený bodmi (rozpis nižšie).
