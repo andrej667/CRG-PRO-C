@@ -3,7 +3,7 @@
 * ©️ **Názov kurzu:** C/C++ pre začiatočníkov
 * 📙 **Predmet:** Programovanie
 * 🎓 **Trieda:** II.ročník
-* 💬 **Discord Link:** https://discord.gg/d9QFsdy7
+* 💬 **Discord Link:** https://discord.gg/yyzBbxxcyv
 
 </br>  
 
