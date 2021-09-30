@@ -93,3 +93,10 @@ String | 3b |  |
 Sada otázok | 15b |  | 
 Sada otázok | 15b |  | 
 **MAX. bodov** | **100b** | **MAX. bodov** | 
+
+**Rozpis pre sady otázok**
+ Sada | Téma | 
+------| -----| 
+1| Algoritmus, úvod do programovania, vývojové prostredie, typový sytém
+2| Jazykové konštrukcie - Podmienky, Cykly, Polia
+3| Funkcie
